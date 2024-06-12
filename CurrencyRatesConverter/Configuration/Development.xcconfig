@@ -1,0 +1,13 @@
+//
+//  Development.xcconfig
+//  CurrencyRatesConverter
+//
+//  Created by Mohindra Bhati on 12/06/24.
+//
+
+// MARK: Configrations for Debug & Development server
+BASE_URL_OPEN_EXCHANGE = openexchangerates.org
+APP_ID_OPEN_EXCHANGE = a24d2330c9da48c78ce1b9cc503b7675
+BASE_URL_API_LAYER = api.apilayer.com
+APP_ID_API_LAYER = Zd80lZdse1OI3tklSggoL7KW7pMyS23g
+

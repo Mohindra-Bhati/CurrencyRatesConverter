@@ -2,6 +2,19 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>BASE_URL_OPEN_EXCHANGE</key>
+	<string>$(BASE_URL_OPEN_EXCHANGE)</string>
+	<key>APP_ID_OPEN_EXCHANGE</key>
+	<string>$(APP_ID_OPEN_EXCHANGE)</string>
+	<key>BASE_URL_API_LAYER</key>
+	<string>$(BASE_URL_API_LAYER)</string>
+	<key>APP_ID_API_LAYER</key>
+	<string>$(APP_ID_API_LAYER)</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
